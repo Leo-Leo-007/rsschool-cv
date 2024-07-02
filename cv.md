@@ -1,7 +1,11 @@
 # **Anastasia Win**
+
 ## **E-mail:** _anavinox@gmail.com_
+
 ## **GitHub** and **Discord**: _Leo-Leo-007_
+
 ### I want study at RS-School for getting skills of Front-End Developer. I can understand new knowledges very quickly
+
 ```javascript
 function squareSum(numbers){
   let sumOfSquares = 0;
