@@ -7,8 +7,6 @@ function showMessage(from, text) { // параметры: from, text
   alert(from + ': ' + text);
 }
 ```
-showMessage('Аня', 'Привет!'); // Аня: Привет! (*)
-showMessage('Аня', "Как дела?"); // Аня: Как дела? (**)
 >I was Engineeer and now I work in traiding with China. 
 >My Education is Automation Production Engineeer
 >My English level is Pre-Intermediate
